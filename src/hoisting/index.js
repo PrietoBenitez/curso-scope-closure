@@ -4,7 +4,7 @@
 // var nameOfDog = 'Elmo';
 // console.log(nameOfDog);
 
-var elmo; // undefined
+var elmo; // undefined 
 nameOfDog();
 
 function nameOfDog() {
